@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '1302'
     url: http://www.gutenberg.org/2009/agents/1302
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37378#The-Secret-Toll
 gutenberg_issued: '2011-09-10'
 gutenberg_type: Text
 identifiers:
