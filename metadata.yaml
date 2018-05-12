@@ -1,0 +1,30 @@
+_repo: The-Secret-Toll_37378
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37378-rst/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Thorne, Mabel
+    gutenberg_agent_id: '1303'
+    url: http://www.gutenberg.org/2009/agents/1303
+  - agent_name: Thorne, Paul
+    gutenberg_agent_id: '1302'
+    url: http://www.gutenberg.org/2009/agents/1302
+description: ''
+gutenberg_issued: '2011-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37378'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+- !lcsh 'Extortion -- Fiction'
+- !lcsh 'World War, 1914-1918 -- Veterans -- Fiction'
+- !lcsh 'Chicago (Ill.) -- Fiction'
+title: The Secret Toll
+url: http://www.gutenberg.org/ebooks/37378
